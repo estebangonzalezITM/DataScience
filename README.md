@@ -1,8 +1,8 @@
-# DataScience
 
 # Introducción a la Ciencia de Datos ITM
 Materiales para el curso de Introducción a la Ciencia de Datos de la Institución Universitaria (ITM).
 
+![Estado](https://img.shields.io/badge/Curso-Ciencia%20de%20Datos-blue)
 
 # Calendario
 | Semana |                             Tema                              |                  Material practico |
